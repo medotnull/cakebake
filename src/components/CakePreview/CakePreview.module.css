@@ -1,0 +1,12 @@
+.cakeContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -40px;
+}
+
+.cake {
+  width: 120px;
+  height: auto;
+  object-fit: contain;
+}

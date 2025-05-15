@@ -1,0 +1,16 @@
+/* src/components/EditorArea/EditorArea.module.css */
+.editorArea {
+    grid-area: editor;
+    padding: 1px 100px 30px 25px; /*top, right, bottom, left*/
+    background-color: #f8f9fa;
+    
+    
+  }
+  
+  .title {
+    font-family: 'Inter', sans-serif;
+    color: #232728;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }

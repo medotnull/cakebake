@@ -1,0 +1,27 @@
+[
+    {
+      "level": 1,
+      "order": "Make a round cake with pink batter",
+      "requiredCSS": ["background-color: #ff99cc", "border-radius: 50%"],
+      "timeLimit": 60
+    },
+    {
+      "level": 2,
+      "order": "Square cake with blue batter and border",
+      "requiredCSS": ["background-color: #00f", "border-radius: 0", "border: 2px solid #000"],
+      "timeLimit": 60
+    },
+    {
+      "level": 3,
+      "order": "Heart cake with gradient batter",
+      "requiredCSS": ["background: linear-gradient", "clip-path: path"],
+      "timeLimit": 70
+    },
+    {
+      "level": 4,
+      "order": "Animated rotating cake with candles",
+      "requiredCSS": ["animation: rotate", "@keyframes rotate"],
+      "timeLimit": 75
+    }
+  ]
+  

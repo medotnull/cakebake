@@ -1,0 +1,17 @@
+/* src/components/PreviewArea/PreviewArea.module.css */
+.previewArea {
+  width: 45%;
+  min-height: 60vh;
+  padding: 1.5rem;
+  background-color: #b76b6b;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 1rem;
+  position: relative;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}

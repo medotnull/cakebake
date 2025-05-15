@@ -1,0 +1,10 @@
+.editorContainer {
+  background-color: #fff;
+  border-radius: 12px;
+  width: 600px;
+  height: 160px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  padding: 0;
+  border: 2px solid #e3e3e3;
+}

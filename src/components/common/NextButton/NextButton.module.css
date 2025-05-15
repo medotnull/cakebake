@@ -1,0 +1,14 @@
+.nextButton {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.buttonImage {
+  width: 80px;
+  height: auto;
+}

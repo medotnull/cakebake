@@ -1,0 +1,9 @@
+/* src/components/TimerBar/TimerBar.module.css */
+.timeBar {
+    height: 6px;
+    background-color: crimson;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: width 1s linear;
+  }
